@@ -1,1 +1,1 @@
-# databricks_workshop_session1
+Databricks Workshop
